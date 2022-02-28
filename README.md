@@ -14,7 +14,7 @@ In this project, I built a school library app. I implement classes to represent 
 
 - [Twitter](https://twitter.com/DevAmkam)
 
-- [Twitter](https://www.facebook.com/amadus.kamara.7)
+- [Facebook](https://www.facebook.com/amadus.kamara.7)
 
 ## 🤝 Contributing
 
